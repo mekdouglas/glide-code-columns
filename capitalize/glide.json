@@ -1,6 +1,6 @@
 {
-  "name": "Kebab Case",
-  "description": "\"hello world\" → \"hello-world\"",
+  "name": "Capitalize Text",
+  "description": "Converts the first character of string to upper case and the remaining to lower case.",
   "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"

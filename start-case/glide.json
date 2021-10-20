@@ -1,7 +1,7 @@
 {
   "name": "Start Case",
   "description": "\"hello world\" → \"Hello World\"",
-  "author": "Glide <hello@glideapps.com>",
+  "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"
   },

@@ -1,6 +1,6 @@
 {
-  "name": "Kebab Case",
-  "description": "\"hello world\" → \"hello-world\"",
+  "name": "Repeat Text",
+  "description": "Repeats the given string n times.",
   "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"
@@ -11,6 +11,11 @@
       "name": "text",
       "type": "string",
       "displayName": "Text"
+    },
+    {
+      "name": "n",
+      "type": "number",
+      "displayName": "Repetitions"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "name": "Kebab Case",
-  "description": "\"hello world\" → \"hello-world\"",
+  "name": "Pad Text at Start",
+  "description": "Pads string on the left side if it's shorter than length. Padding characters are truncated if they exceed length.",
   "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"
@@ -11,6 +11,16 @@
       "name": "text",
       "type": "string",
       "displayName": "Text"
+    },
+    {
+      "name": "length",
+      "type": "number",
+      "displayName": "Length"
+    },
+    {
+      "name": "chars",
+      "type": "string",
+      "displayName": "Padding"
     }
   ]
 }

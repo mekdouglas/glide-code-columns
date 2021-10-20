@@ -1,6 +1,6 @@
 {
-  "name": "Kebab Case",
-  "description": "\"hello world\" → \"hello-world\"",
+  "name": "Deburr Text",
+  "description": "Deburrs string by converting Latin-1 Supplement and Latin Extended-A letters to basic Latin letters and removing combining diacritical marks.",
   "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"

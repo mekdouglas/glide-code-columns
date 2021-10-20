@@ -1,6 +1,6 @@
 {
-  "name": "Kebab Case",
-  "description": "\"hello world\" → \"hello-world\"",
+  "name": "Lowercase Text",
+  "description": "Converts string, as space separated words, to lower case.",
   "author": "lodash Project <lodash.com>",
   "result": {
     "type": "string"
