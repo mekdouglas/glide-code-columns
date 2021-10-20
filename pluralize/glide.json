@@ -1,5 +1,5 @@
 {
-  "name": "Pluralize",
+  "name": "Pluralize Text",
   "description": "Returns the plural version of a given word if the value is not 1. The default suffix is 's'.",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {
