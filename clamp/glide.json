@@ -1,6 +1,6 @@
 {
   "name": "Clamp",
-  "description": "\"hello world\" → \"Hello World\"",
+  "description": "Clamps a number within inclusive lower and upper bounds.",
   "author": "Glide <hello@glideapps.com>",
   "result": {
     "type": "number"
