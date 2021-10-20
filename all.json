@@ -532,17 +532,17 @@
     "params": [
       {
         "name": "number",
-        "type": "string",
+        "type": "number",
         "displayName": "Number"
       },
       {
         "name": "singular",
-        "type": "number",
+        "type": "string",
         "displayName": "Singular"
       },
       {
         "name": "plural",
-        "type": "number",
+        "type": "string",
         "displayName": "Plural"
       }
     ]
