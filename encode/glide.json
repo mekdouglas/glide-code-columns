@@ -1,5 +1,6 @@
 {
   "name": "Base64 Encode",
+  "category": "Encode",
   "description": "A common binary encoding for text.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Transform JSON",
+  "category": "Code",
   "description": "Transform JSON with JQ",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Compact Integer",
+  "category": "Number",
   "description": "Converts an integer into its most compact representation.",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Pad Text at Start",
+  "category": "Text",
   "description": "Pads string on the left side if it's shorter than length. Padding characters are truncated if they exceed length.",
   "author": "lodash Project <lodash.com>",
   "result": {

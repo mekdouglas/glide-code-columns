@@ -1,5 +1,6 @@
 {
   "name": "Glide App Icon",
+  "category": "Glide",
   "description": "Gets a Glide app's icon",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

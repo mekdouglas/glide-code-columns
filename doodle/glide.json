@@ -1,5 +1,6 @@
 {
   "name": "Doodle Ipsum",
+  "category": "Image",
   "description": "Generate random illustrations from data",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Kebab Case",
+  "category": "Text",
   "description": "\"hello world\" → \"hello-world\"",
   "author": "lodash Project <lodash.com>",
   "result": {

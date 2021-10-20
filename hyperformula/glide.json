@@ -1,5 +1,6 @@
 {
   "name": "Hyperformula",
+  "category": "Code",
   "description": "Run Excel formulas",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Truncate Text",
+  "category": "Text",
   "description": "Truncates a string if it is longer than the specified number of characters. Truncated strings will end with a translatable ellipsis sequence (\"…\").",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {

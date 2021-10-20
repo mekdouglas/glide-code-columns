@@ -1,5 +1,6 @@
 {
   "name": "LISP",
+  "category": "Code",
   "description": "Runs LISP code",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

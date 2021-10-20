@@ -1,5 +1,6 @@
 {
   "name": "Barcode",
+  "category": "Image",
   "description": "Generates barcode images",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

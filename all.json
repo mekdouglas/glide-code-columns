@@ -1,6 +1,7 @@
 {
   "app-icon": {
     "name": "Glide App Icon",
+    "category": "Glide",
     "description": "Gets a Glide app's icon",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -18,6 +19,7 @@
   },
   "barcode": {
     "name": "Barcode",
+    "category": "Image",
     "description": "Generates barcode images",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -40,6 +42,7 @@
   },
   "capitalize": {
     "name": "Capitalize Text",
+    "category": "Text",
     "description": "Converts the first character of string to upper case and the remaining to lower case.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -56,6 +59,7 @@
   },
   "clamp": {
     "name": "Clamp",
+    "category": "Number",
     "description": "Clamps a number within inclusive lower and upper bounds.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -82,6 +86,7 @@
   },
   "compact-integer": {
     "name": "Compact Integer",
+    "category": "Number",
     "description": "Converts an integer into its most compact representation.",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -103,6 +108,7 @@
   },
   "deburr": {
     "name": "Deburr Text",
+    "category": "Text",
     "description": "Deburrs string by converting Latin-1 Supplement and Latin Extended-A letters to basic Latin letters and removing combining diacritical marks.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -119,6 +125,7 @@
   },
   "decode": {
     "name": "Base64 Decode",
+    "category": "Encoding",
     "description": "A common binary encoding for text.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -135,6 +142,7 @@
   },
   "doodle": {
     "name": "Doodle Ipsum",
+    "category": "Image",
     "description": "Generate random illustrations from data",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -163,6 +171,7 @@
   },
   "encode": {
     "name": "Base64 Encode",
+    "category": "Encode",
     "description": "A common binary encoding for text.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -179,6 +188,7 @@
   },
   "fetch": {
     "name": "Fetch JSON",
+    "category": "Code",
     "description": "Fetch and optionally transform JSON",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -202,6 +212,7 @@
   },
   "file-size": {
     "name": "File Size",
+    "category": "Number",
     "description": "Formats the value like a 'human-readable' file size (i.e. '13 KB', '4.1 MB', '102 bytes', etc).",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -218,6 +229,7 @@
   },
   "glide-brand-image": {
     "name": "Glide Brand Image",
+    "category": "Glide",
     "description": "Glide 3D Data Shapes",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -239,6 +251,7 @@
   },
   "hell-yes-code": {
     "name": "Hell Yes-Code",
+    "category": "Code",
     "description": "Runs JavaScript",
     "author": "Mark Probst <mark@glideapps.com>",
     "result": {
@@ -272,6 +285,7 @@
   },
   "hyperformula": {
     "name": "Hyperformula",
+    "category": "Code",
     "description": "Run Excel formulas",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -315,6 +329,7 @@
   },
   "is-email": {
     "name": "Email Validator",
+    "category": "Text",
     "description": "Indicates whether text is an email.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -331,6 +346,7 @@
   },
   "jq": {
     "name": "Transform JSON",
+    "category": "Code",
     "description": "Transform JSON with JQ",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -354,6 +370,7 @@
   },
   "kebab-case": {
     "name": "Kebab Case",
+    "category": "Text",
     "description": "\"hello world\" → \"hello-world\"",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -370,6 +387,7 @@
   },
   "lisp": {
     "name": "LISP",
+    "category": "Code",
     "description": "Runs LISP code",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -413,6 +431,7 @@
   },
   "lowercase": {
     "name": "Lowercase Text",
+    "category": "Text",
     "description": "Converts string, as space separated words, to lower case.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -429,6 +448,7 @@
   },
   "ordinal": {
     "name": "Ordinal",
+    "category": "Number",
     "description": "Converts an integer to its ordinal as a string.",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -445,6 +465,7 @@
   },
   "pad-end": {
     "name": "Pad Text at End",
+    "category": "Text",
     "description": "Pads string on the right side if it's shorter than length. Padding characters are truncated if they exceed length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -471,6 +492,7 @@
   },
   "pad-start": {
     "name": "Pad Text at Start",
+    "category": "Text",
     "description": "Pads string on the left side if it's shorter than length. Padding characters are truncated if they exceed length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -497,6 +519,7 @@
   },
   "pad": {
     "name": "Pad Text",
+    "category": "Text",
     "description": "Pads string on the left and right sides if it's shorter than length. Padding characters are truncated if they can't be evenly divided by length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -523,6 +546,7 @@
   },
   "pluralize": {
     "name": "Pluralize Text",
+    "category": "Text",
     "description": "Returns the plural version of a given word if the value is not 1. The default suffix is 's'.",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -549,6 +573,7 @@
   },
   "qrcode": {
     "name": "QR Code",
+    "category": "Image",
     "description": "Generate QR codes",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -572,6 +597,7 @@
   },
   "regex": {
     "name": "Extract Matching Text",
+    "category": "Code",
     "description": "Extract text matching a regular expression.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -593,6 +619,7 @@
   },
   "repeat": {
     "name": "Repeat Text",
+    "category": "Text",
     "description": "Repeats the given string n times.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -614,6 +641,7 @@
   },
   "start-case": {
     "name": "Start Case",
+    "category": "Text",
     "description": "\"hello world\" → \"Hello World\"",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -630,6 +658,7 @@
   },
   "translate": {
     "name": "Google Translate",
+    "category": "Text",
     "description": "Translate from one language to another",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -658,6 +687,7 @@
   },
   "trim": {
     "name": "Trim Whitespace",
+    "category": "Text",
     "description": "Remove whitespace around text.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -674,6 +704,7 @@
   },
   "truncate": {
     "name": "Truncate Text",
+    "category": "Text",
     "description": "Truncates a string if it is longer than the specified number of characters. Truncated strings will end with a translatable ellipsis sequence (\"…\").",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -700,6 +731,7 @@
   },
   "youtube-thumbnail": {
     "name": "YouTube Thumbnail",
+    "category": "Image",
     "description": "Display video thumbnail images",
     "author": "David Siegel <david@glideapps.com>",
     "result": {

@@ -1,5 +1,6 @@
 {
   "name": "Start Case",
+  "category": "Text",
   "description": "\"hello world\" → \"Hello World\"",
   "author": "lodash Project <lodash.com>",
   "result": {

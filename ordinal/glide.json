@@ -1,5 +1,6 @@
 {
   "name": "Ordinal",
+  "category": "Number",
   "description": "Converts an integer to its ordinal as a string.",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {

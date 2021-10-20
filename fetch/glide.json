@@ -1,5 +1,6 @@
 {
   "name": "Fetch JSON",
+  "category": "Code",
   "description": "Fetch and optionally transform JSON",
   "author": "David Siegel <david@glideapps.com>",
   "result": {

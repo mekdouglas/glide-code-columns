@@ -1,5 +1,6 @@
 {
   "name": "Email Validator",
+  "category": "Text",
   "description": "Indicates whether text is an email.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

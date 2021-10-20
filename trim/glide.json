@@ -1,5 +1,6 @@
 {
   "name": "Trim Whitespace",
+  "category": "Text",
   "description": "Remove whitespace around text.",
   "author": "Glide <hello@glideapps.com>",
   "result": {
