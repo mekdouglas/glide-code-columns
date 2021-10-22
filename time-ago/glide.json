@@ -1,7 +1,7 @@
 {
   "name": "Relative Time",
   "category": "Date & Time",
-  "description": "International relative time formatting.",
+  "description": "Given a date, returns a string with the relative time (e.g. '1 day ago').",
   "author": "Nikolay Kuchumov <gitlab.com/catamphetamine>",
   "result": {
     "type": "string"
