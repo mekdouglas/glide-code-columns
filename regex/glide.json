@@ -1,6 +1,6 @@
 {
   "name": "Extract Matching Text",
-  "category": "Code",
+  "category": "Text",
   "description": "Extract text matching a regular expression.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

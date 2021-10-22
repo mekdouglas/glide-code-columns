@@ -188,7 +188,7 @@
   },
   "fetch": {
     "name": "Fetch JSON",
-    "category": "Code",
+    "category": "Data & APIs",
     "description": "Fetch and optionally transform JSON",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -369,7 +369,7 @@
   },
   "jq": {
     "name": "Transform JSON",
-    "category": "Code",
+    "category": "Data & APIs",
     "description": "Transform JSON with JQ",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -620,7 +620,7 @@
   },
   "regex": {
     "name": "Extract Matching Text",
-    "category": "Code",
+    "category": "Text",
     "description": "Extract text matching a regular expression.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -709,7 +709,7 @@
   },
   "translate": {
     "name": "Google Translate",
-    "category": "Text",
+    "category": "Data & APIs",
     "description": "Translate from one language to another",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
