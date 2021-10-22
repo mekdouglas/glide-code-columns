@@ -124,9 +124,9 @@
     ]
   },
   "decode": {
-    "name": "Base64 Decode",
+    "name": "Decode Text",
     "category": "Encoding",
-    "description": "A common binary encoding for text.",
+    "description": "Decode text in a variety of formats.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
       "type": "string"
@@ -137,6 +137,11 @@
         "name": "text",
         "type": "string",
         "displayName": "Text"
+      },
+      {
+        "name": "encoding",
+        "type": "string",
+        "displayName": "Encoding (base64, url)"
       }
     ]
   },
@@ -170,9 +175,9 @@
     ]
   },
   "encode": {
-    "name": "Base64 Encode",
+    "name": "Encode Text",
     "category": "Encoding",
-    "description": "A common binary encoding for text.",
+    "description": "Encode text in a variety of formats.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
       "type": "string"
@@ -183,6 +188,11 @@
         "name": "text",
         "type": "string",
         "displayName": "Text"
+      },
+      {
+        "name": "encoding",
+        "type": "string",
+        "displayName": "Encoding (base64, url)"
       }
     ]
   },
