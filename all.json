@@ -699,6 +699,11 @@
         "name": "now",
         "type": "date-time",
         "displayName": "Now"
+      },
+      {
+        "name": "style",
+        "type": "string",
+        "displayName": "Style (round, mini, twitter)"
       }
     ]
   },
