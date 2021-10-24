@@ -821,7 +821,7 @@
   "urbit-name": {
     "name": "Urbit Name",
     "category": "Fun",
-    "description": "Converts the first character of string to upper case and the remaining to lower case.",
+    "description": "Galaxy, star, and planet names in the Urbit computational universe.",
     "author": "urbit Project <urbit.org>",
     "result": {
       "type": "string"
