@@ -1,6 +1,7 @@
 {
   "name": "Hell Yes-Code",
   "category": "Code",
+  "released": "sandboxed",
   "description": "Runs JavaScript",
   "author": "Mark Probst <mark@glideapps.com>",
   "result": {

@@ -1,6 +1,7 @@
 {
   "name": "Capitalize Text",
   "category": "Text",
+  "released": "direct",
   "description": "Converts the first character of string to upper case and the remaining to lower case.",
   "author": "lodash Project <lodash.com>",
   "result": {

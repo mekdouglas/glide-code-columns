@@ -1,6 +1,7 @@
 {
   "name": "Clamp",
   "category": "Number",
+  "released": "direct",
   "description": "Clamps a number within inclusive lower and upper bounds.",
   "author": "Glide <hello@glideapps.com>",
   "result": {
