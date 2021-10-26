@@ -271,6 +271,7 @@
   "fetch": {
     "name": "Fetch JSON",
     "category": "Data & APIs",
+    "released": "direct",
     "description": "Fetch and optionally transform JSON",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
@@ -454,6 +455,7 @@
   "jq": {
     "name": "Transform JSON",
     "category": "Data & APIs",
+    "released": "direct",
     "description": "Transform JSON with JQ",
     "author": "David Siegel <david@glideapps.com>",
     "result": {

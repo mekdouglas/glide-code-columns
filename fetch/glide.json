@@ -1,6 +1,7 @@
 {
   "name": "Fetch JSON",
   "category": "Data & APIs",
+  "released": "direct",
   "description": "Fetch and optionally transform JSON",
   "author": "David Siegel <david@glideapps.com>",
   "result": {
