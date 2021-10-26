@@ -658,9 +658,9 @@
     ]
   },
   "random": {
-    "name": "Random Value",
+    "name": "Random Number",
     "category": "Number",
-    "description": "Seeded random number generator.",
+    "description": "Turn any value into a stable random number.",
     "author": "davidbau <github.com/davidbau/seedrandom>",
     "result": {
       "type": "number"
