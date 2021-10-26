@@ -1,6 +1,6 @@
 {
   "name": "Reverse Array",
-  "category": "General",
+  "category": "Array",
   "released": "direct",
   "description": "Reverses the order of items in an array",
   "author": "Glide <hello@glideapps.com>",
