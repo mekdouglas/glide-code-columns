@@ -741,6 +741,7 @@
   "lowercase": {
     "name": "Lowercase Text",
     "category": "Text",
+    "released": "direct",
     "description": "Converts string, as space separated words, to lower case.",
     "author": "lodash Project <lodash.com>",
     "result": {
