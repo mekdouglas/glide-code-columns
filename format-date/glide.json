@@ -1,6 +1,7 @@
 {
   "name": "Format Date",
   "category": "Date & Time",
+  "released": "direct",
   "description": "Powerful date & time formatting with luxon.",
   "author": "luxon <https://moment.github.io/luxon>",
   "result": {

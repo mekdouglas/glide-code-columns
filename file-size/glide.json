@@ -1,6 +1,7 @@
 {
   "name": "File Size",
   "category": "Number",
+  "released": "direct",
   "description": "Formats the value like a 'human-readable' file size (i.e. '13 KB', '4.1 MB', '102 bytes', etc).",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {

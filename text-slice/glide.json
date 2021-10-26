@@ -1,6 +1,7 @@
 {
   "name": "Text Slice",
   "category": "Text",
+  "released": "direct",
   "description": "Gets a substring out of text, from zero-indexed \"start\" with an optional length",
   "author": "Glide <hello@glideapps.com>",
   "result": {

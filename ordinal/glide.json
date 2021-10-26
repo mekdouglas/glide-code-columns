@@ -1,7 +1,8 @@
 {
   "name": "Ordinal",
   "category": "Number",
-  "description": "Converts an integer to its ordinal as a string.",
+  "released": "direct",
+  "description": "Converts an integer to its ordinal as a string. e.g. 22nd",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {
     "type": "string"

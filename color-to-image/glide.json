@@ -1,5 +1,5 @@
 {
-  "name": "Image from color",
+  "name": "Image from Color",
   "category": "Image",
   "released": "direct",
   "description": "Get an image based on a CSS color.",

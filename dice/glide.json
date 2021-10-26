@@ -1,6 +1,7 @@
 {
   "name": "Roll Dice",
   "category": "Number",
+  "released": "direct",
   "description": "Roll dice of various sizes.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

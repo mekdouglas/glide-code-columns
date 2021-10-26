@@ -1,6 +1,7 @@
 {
   "name": "Decode Text",
   "category": "Encoding",
+  "released": "direct",
   "description": "Decode text in a variety of formats.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

@@ -1,6 +1,7 @@
 {
   "name": "Text Offset",
   "category": "Text",
+  "released": "direct",
   "description": "Gets the zero-based offset of the zero-based N-th occurence of needle in haystack",
   "author": "Glide <hello@glideapps.com>",
   "result": {

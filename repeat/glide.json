@@ -1,6 +1,7 @@
 {
   "name": "Repeat Text",
   "category": "Text",
+  "released": "direct",
   "description": "Repeats the given string n times.",
   "author": "lodash Project <lodash.com>",
   "result": {

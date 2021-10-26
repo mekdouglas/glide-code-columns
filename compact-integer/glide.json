@@ -1,6 +1,7 @@
 {
-  "name": "Compact Integer",
+  "name": "Abbreviate Number",
   "category": "Number",
+  "released": "direct",
   "description": "Converts an integer into its most compact representation.",
   "author": "HubSpot <https://github.com/HubSpot/humanize>",
   "result": {

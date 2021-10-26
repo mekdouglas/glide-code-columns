@@ -1,6 +1,7 @@
 {
   "name": "Random Number",
   "category": "Number",
+  "released": "direct",
   "description": "Turn any value into a stable random number.",
   "author": "davidbau <github.com/davidbau/seedrandom>",
   "result": {

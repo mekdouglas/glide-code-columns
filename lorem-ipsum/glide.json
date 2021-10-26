@@ -1,6 +1,7 @@
 {
   "name": "Lorem Ipsum",
   "category": "Text",
+  "released": "direct",
   "description": "Produces a 'lorem ipsum' style string",
   "author": "knicklabs <github.com/knicklabs/lorem-ipsum.js>",
   "result": {

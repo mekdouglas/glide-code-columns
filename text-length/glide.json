@@ -1,6 +1,7 @@
 {
   "name": "Text Length",
   "category": "Text",
+  "released": "direct",
   "description": "Gets the length of a text snippet",
   "author": "Glide <hello@glideapps.com>",
   "result": {

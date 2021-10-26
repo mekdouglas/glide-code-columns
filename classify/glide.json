@@ -1,6 +1,7 @@
 {
   "name": "Classify Text",
   "category": "Machine Learning",
+  "released": "direct",
   "description": "Categorize text based on examples.",
   "author": "ttezel <https://github.com/ttezel/bayes>",
   "result": {

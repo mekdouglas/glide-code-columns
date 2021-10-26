@@ -56,7 +56,7 @@
     ]
   },
   "as-array": {
-    "name": "Create array",
+    "name": "Single Element Array",
     "category": "Array",
     "released": "direct",
     "description": "Convert a solitary value to an array",
@@ -148,6 +148,7 @@
   "classify": {
     "name": "Classify Text",
     "category": "Machine Learning",
+    "released": "direct",
     "description": "Categorize text based on examples.",
     "author": "ttezel <https://github.com/ttezel/bayes>",
     "result": {
@@ -206,7 +207,7 @@
     ]
   },
   "color-to-image": {
-    "name": "Image from color",
+    "name": "Image from Color",
     "category": "Image",
     "released": "direct",
     "description": "Get an image based on a CSS color.",
@@ -225,8 +226,9 @@
     ]
   },
   "compact-integer": {
-    "name": "Compact Integer",
+    "name": "Abbreviate Number",
     "category": "Number",
+    "released": "direct",
     "description": "Converts an integer into its most compact representation.",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -247,7 +249,7 @@
     ]
   },
   "concat-array": {
-    "name": "Append array",
+    "name": "Append Array",
     "category": "Array",
     "released": "direct",
     "description": "Add one array to the end of another",
@@ -279,8 +281,9 @@
     ]
   },
   "deburr": {
-    "name": "Deburr Text",
+    "name": "Remove Text Accents",
     "category": "Text",
+    "released": "direct",
     "description": "Deburrs string by converting Latin-1 Supplement and Latin Extended-A letters to basic Latin letters and removing combining diacritical marks.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -298,6 +301,7 @@
   "decode": {
     "name": "Decode Text",
     "category": "Encoding",
+    "released": "direct",
     "description": "Decode text in a variety of formats.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -320,6 +324,7 @@
   "dice": {
     "name": "Roll Dice",
     "category": "Number",
+    "released": "direct",
     "description": "Roll dice of various sizes.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -395,6 +400,7 @@
   "encode": {
     "name": "Encode Text",
     "category": "Encoding",
+    "released": "direct",
     "description": "Encode text in a variety of formats.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -442,6 +448,7 @@
   "file-size": {
     "name": "File Size",
     "category": "Number",
+    "released": "direct",
     "description": "Formats the value like a 'human-readable' file size (i.e. '13 KB', '4.1 MB', '102 bytes', etc).",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -459,6 +466,7 @@
   "format-date": {
     "name": "Format Date",
     "category": "Date & Time",
+    "released": "direct",
     "description": "Powerful date & time formatting with luxon.",
     "author": "luxon <https://moment.github.io/luxon>",
     "result": {
@@ -502,7 +510,7 @@
     ]
   },
   "hell-yes-code": {
-    "name": "Hell Yes-Code",
+    "name": "JavaScript",
     "category": "Code",
     "released": "sandboxed",
     "description": "Runs JavaScript",
@@ -610,6 +618,7 @@
   "is-email": {
     "name": "Email Validator",
     "category": "Text",
+    "released": "direct",
     "description": "Indicates whether text is an email.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -652,6 +661,7 @@
   "kebab-case": {
     "name": "Kebab Case",
     "category": "Text",
+    "released": "direct",
     "description": "\"hello world\" → \"hello-world\"",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -713,6 +723,7 @@
   "lorem-ipsum": {
     "name": "Lorem Ipsum",
     "category": "Text",
+    "released": "direct",
     "description": "Produces a 'lorem ipsum' style string",
     "author": "knicklabs <github.com/knicklabs/lorem-ipsum.js>",
     "result": {
@@ -747,7 +758,8 @@
   "ordinal": {
     "name": "Ordinal",
     "category": "Number",
-    "description": "Converts an integer to its ordinal as a string.",
+    "released": "direct",
+    "description": "Converts an integer to its ordinal as a string. e.g. 22nd",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
       "type": "string"
@@ -764,6 +776,7 @@
   "pad-end": {
     "name": "Pad Text at End",
     "category": "Text",
+    "released": "direct",
     "description": "Pads string on the right side if it's shorter than length. Padding characters are truncated if they exceed length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -791,6 +804,7 @@
   "pad-start": {
     "name": "Pad Text at Start",
     "category": "Text",
+    "released": "direct",
     "description": "Pads string on the left side if it's shorter than length. Padding characters are truncated if they exceed length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -818,6 +832,7 @@
   "pad": {
     "name": "Pad Text",
     "category": "Text",
+    "released": "direct",
     "description": "Pads string on the left and right sides if it's shorter than length. Padding characters are truncated if they can't be evenly divided by length.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -845,6 +860,7 @@
   "pluralize": {
     "name": "Pluralize Text",
     "category": "Text",
+    "released": "direct",
     "description": "Returns the plural version of a given word if the value is not 1. The default suffix is 's'.",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -896,6 +912,7 @@
   "random": {
     "name": "Random Number",
     "category": "Number",
+    "released": "direct",
     "description": "Turn any value into a stable random number.",
     "author": "davidbau <github.com/davidbau/seedrandom>",
     "result": {
@@ -914,6 +931,7 @@
   "regex": {
     "name": "Extract Matching Text",
     "category": "Text",
+    "released": "direct",
     "description": "Extract text matching a regular expression.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -997,6 +1015,7 @@
   "repeat": {
     "name": "Repeat Text",
     "category": "Text",
+    "released": "direct",
     "description": "Repeats the given string n times.",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -1129,6 +1148,7 @@
   "start-case": {
     "name": "Start Case",
     "category": "Text",
+    "released": "direct",
     "description": "\"hello world\" → \"Hello World\"",
     "author": "lodash Project <lodash.com>",
     "result": {
@@ -1146,6 +1166,7 @@
   "text-index": {
     "name": "Text Offset",
     "category": "Text",
+    "released": "direct",
     "description": "Gets the zero-based offset of the zero-based N-th occurence of needle in haystack",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -1173,6 +1194,7 @@
   "text-length": {
     "name": "Text Length",
     "category": "Text",
+    "released": "direct",
     "description": "Gets the length of a text snippet",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -1190,6 +1212,7 @@
   "text-slice": {
     "name": "Text Slice",
     "category": "Text",
+    "released": "direct",
     "description": "Gets a substring out of text, from zero-indexed \"start\" with an optional length",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -1217,6 +1240,7 @@
   "time-ago": {
     "name": "Relative Time",
     "category": "Date & Time",
+    "released": "direct",
     "description": "Given a date, returns a string with the relative time (e.g. '1 day ago').",
     "author": "Nikolay Kuchumov <gitlab.com/catamphetamine>",
     "result": {
@@ -1274,6 +1298,7 @@
   "trim": {
     "name": "Trim Whitespace",
     "category": "Text",
+    "released": "direct",
     "description": "Remove whitespace around text.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -1291,6 +1316,7 @@
   "truncate": {
     "name": "Truncate Text",
     "category": "Text",
+    "released": "direct",
     "description": "Truncates a string if it is longer than the specified number of characters. Truncated strings will end with a translatable ellipsis sequence (\"…\").",
     "author": "HubSpot <https://github.com/HubSpot/humanize>",
     "result": {
@@ -1366,6 +1392,7 @@
   "youtube-thumbnail": {
     "name": "YouTube Thumbnail",
     "category": "Image",
+    "released": "direct",
     "description": "Display video thumbnail images",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
