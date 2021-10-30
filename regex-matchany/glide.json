@@ -1,6 +1,7 @@
 {
   "name": "Check Text Matches",
   "category": "Text",
+  "released": "direct",
   "description": "Check that text matches a regular expression.",
   "author": "Glide <hello@glideapps.com>",
   "result": {

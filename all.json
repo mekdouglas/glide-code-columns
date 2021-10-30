@@ -944,6 +944,7 @@
   "regex-matchany": {
     "name": "Check Text Matches",
     "category": "Text",
+    "released": "direct",
     "description": "Check that text matches a regular expression.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
@@ -966,6 +967,7 @@
   "regex-matchmany": {
     "name": "Extract Multiple Matching Text",
     "category": "Text",
+    "released": "direct",
     "description": "Extract text matching a regular expression, returning an array of matches.",
     "author": "Glide <hello@glideapps.com>",
     "result": {
