@@ -714,50 +714,6 @@
       }
     ]
   },
-  "lisp": {
-    "name": "LISP",
-    "category": "Code",
-    "description": "Runs LISP code",
-    "author": "David Siegel <david@glideapps.com>",
-    "result": {
-      "type": "primitive"
-    },
-    "about": "\n      Uses [github.com/jcubic/lips](https://github.com/jcubic/lips), a \n      \"scheme-based powerful lisp interpreter written in JavaScript.\"\n    ",
-    "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4\" />\n</svg>\n    ",
-    "video": "https://www.youtube.com/watch?v=G3FDnNZF5uA",
-    "params": [
-      {
-        "name": "code",
-        "displayName": "LISP",
-        "type": "string"
-      },
-      {
-        "name": "p1",
-        "displayName": "p1",
-        "type": "primitive"
-      },
-      {
-        "name": "p2",
-        "displayName": "p2",
-        "type": "primitive"
-      },
-      {
-        "name": "p3",
-        "displayName": "p3",
-        "type": "primitive"
-      },
-      {
-        "name": "p4",
-        "displayName": "p4",
-        "type": "primitive"
-      },
-      {
-        "name": "p5",
-        "displayName": "p5",
-        "type": "primitive"
-      }
-    ]
-  },
   "lorem-ipsum": {
     "name": "Lorem Ipsum",
     "category": "Text",
