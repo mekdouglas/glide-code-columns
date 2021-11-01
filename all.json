@@ -9,6 +9,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "color",
@@ -65,6 +66,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "array",
@@ -89,6 +91,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "value",
@@ -108,6 +111,7 @@
     },
     "about": "\n        JsBarcode is a barcode generator written in JavaScript. It supports multiple barcode formats and works in browsers and with Node.js.\n    \n    Learn more at [lindell.me/JsBarcode](https://lindell.me/JsBarcode/).\n    ",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "content",
@@ -126,6 +130,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -144,6 +149,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "number",
@@ -204,6 +210,7 @@
       }
     },
     "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" width=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01\" />\n</svg>",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "start",
@@ -233,6 +240,7 @@
     },
     "about": "You can use any valid [CSS color](https://developer.mozilla.org/en-US/docs/Web/CSS/color).",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "color",
@@ -251,6 +259,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "number",
@@ -277,6 +286,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -306,6 +316,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -324,6 +335,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M7 20l4-16m2 16l4-16M6 9h14M4 15h14\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -347,6 +359,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "seed",
@@ -402,6 +415,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -423,6 +437,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M7 20l4-16m2 16l4-16M6 9h14M4 15h14\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -446,6 +461,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "value",
@@ -489,6 +505,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "fileSize",
@@ -508,6 +525,7 @@
     },
     "about": "\n    Learn about date formatting in [luxon's documentation](https://moment.github.io/luxon/#/formatting?id=table-of-tokens).\n  ",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "date",
@@ -588,6 +606,7 @@
       "type": "image-uri"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "name",
@@ -676,6 +695,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -702,6 +722,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "email",
@@ -720,6 +741,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "url",
@@ -768,6 +790,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -786,6 +809,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "numberOfSentences",
@@ -804,6 +828,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -822,6 +847,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "markdown",
@@ -845,6 +871,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "value",
@@ -863,6 +890,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "number",
@@ -881,6 +909,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -909,6 +938,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -937,6 +967,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -966,6 +997,7 @@
     },
     "about": "\n    Learn about date formatting in [luxon's documentation](https://moment.github.io/luxon/#/formatting?id=table-of-tokens).\n  ",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -999,6 +1031,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "number",
@@ -1070,6 +1103,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1096,6 +1130,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1119,6 +1154,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1145,6 +1181,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -1177,6 +1214,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -1203,6 +1241,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1229,6 +1268,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "array",
@@ -1250,6 +1290,7 @@
     },
     "about": "\n    Subscribe and get an API key at [rapidapi.com/twinword/api/sentiment-analysis](https://rapidapi.com/twinword/api/sentiment-analysis/).\n  ",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1279,6 +1320,7 @@
     },
     "about": "The SHA256 column provides the ability to return a 256 length hash of any input according to the SHA256 algorithm",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "input",
@@ -1300,6 +1342,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -1334,6 +1377,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -1355,6 +1399,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1372,6 +1417,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1395,6 +1441,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "haystack",
@@ -1423,6 +1470,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1441,6 +1489,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1469,6 +1518,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1488,6 +1538,7 @@
     },
     "about": "\n    Learn more at [gitlab.com/catamphetamine/javascript-time-ago](https://gitlab.com/catamphetamine/javascript-time-ago).\n  ",
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "date",
@@ -1545,6 +1596,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "text",
@@ -1563,6 +1615,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "string",
@@ -1591,6 +1644,7 @@
       "type": "boolean"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "value",
@@ -1612,6 +1666,7 @@
       }
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "values",
@@ -1633,6 +1688,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\"\n          height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "number",
@@ -1685,6 +1741,7 @@
       "type": "string"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "uri",
@@ -1708,6 +1765,7 @@
       "type": "number"
     },
     "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
     "params": [
       {
         "name": "words",
