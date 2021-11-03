@@ -80,7 +80,7 @@
     ]
   },
   "index-in-array": {
-    "name": "Index of",
+    "name": "Find Element Index",
     "category": "Array",
     "released": "direct",
     "description": "Finds the first index of an element in an array",
@@ -106,8 +106,38 @@
       }
     ]
   },
+  "remove-from": {
+    "name": "Remove Element",
+    "category": "Array",
+    "released": "direct",
+    "description": "Remove all instances of an item from an array",
+    "author": "Glide <hello@glideapps.com>",
+    "result": {
+      "type": {
+        "kind": "array",
+        "items": "primitive"
+      }
+    },
+    "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
+    "params": [
+      {
+        "name": "values",
+        "type": {
+          "kind": "array",
+          "items": "primitive"
+        },
+        "displayName": "Values"
+      },
+      {
+        "name": "toRemove",
+        "type": "primitive",
+        "displayName": "To remove"
+      }
+    ]
+  },
   "remove-all": {
-    "name": "Remove all",
+    "name": "Remove Elements",
     "category": "Array",
     "released": "direct",
     "description": "Remove all elements in an array from another array",
@@ -135,36 +165,6 @@
           "kind": "array",
           "items": "primitive"
         },
-        "displayName": "To remove"
-      }
-    ]
-  },
-  "remove-from": {
-    "name": "Remove item",
-    "category": "Array",
-    "released": "direct",
-    "description": "Remove all instances of an item from an array",
-    "author": "Glide <hello@glideapps.com>",
-    "result": {
-      "type": {
-        "kind": "array",
-        "items": "primitive"
-      }
-    },
-    "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" />\n</svg>\n",
-    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
-    "params": [
-      {
-        "name": "values",
-        "type": {
-          "kind": "array",
-          "items": "primitive"
-        },
-        "displayName": "Values"
-      },
-      {
-        "name": "toRemove",
-        "type": "primitive",
         "displayName": "To remove"
       }
     ]
@@ -252,7 +252,7 @@
     ]
   },
   "sort-array": {
-    "name": "Sort array",
+    "name": "Sort Array",
     "category": "Array",
     "released": "direct",
     "description": "Sort the items in an array",
@@ -277,7 +277,7 @@
     ]
   },
   "uniq": {
-    "name": "Unique",
+    "name": "Unique Elements",
     "category": "Array",
     "released": "direct",
     "description": "Remove duplicate entries from an array",
@@ -1276,25 +1276,6 @@
       }
     ]
   },
-  "is-email": {
-    "name": "Email Validator",
-    "category": "Text",
-    "released": "direct",
-    "description": "Indicates whether text is an email.",
-    "author": "Glide <hello@glideapps.com>",
-    "result": {
-      "type": "boolean"
-    },
-    "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
-    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
-    "params": [
-      {
-        "name": "email",
-        "type": "string",
-        "displayName": "Email"
-      }
-    ]
-  },
   "regex": {
     "name": "Extract Matching Text",
     "category": "Text",
@@ -1631,6 +1612,25 @@
         "name": "text",
         "type": "string",
         "displayName": "Text"
+      }
+    ]
+  },
+  "is-email": {
+    "name": "Text is Email",
+    "category": "Text",
+    "released": "direct",
+    "description": "Indicates whether text is an email.",
+    "author": "Glide <hello@glideapps.com>",
+    "result": {
+      "type": "boolean"
+    },
+    "icon": "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z\" />\n</svg>\n",
+    "video": "https://www.loom.com/share/39ab84c058e14adea79ca4442f450351",
+    "params": [
+      {
+        "name": "email",
+        "type": "string",
+        "displayName": "Email"
       }
     ]
   },

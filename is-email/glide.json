@@ -1,5 +1,5 @@
 {
-  "name": "Email Validator",
+  "name": "Text is Email",
   "category": "Text",
   "released": "direct",
   "description": "Indicates whether text is an email.",

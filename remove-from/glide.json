@@ -1,5 +1,5 @@
 {
-  "name": "Remove item",
+  "name": "Remove Element",
   "category": "Array",
   "released": "direct",
   "description": "Remove all instances of an item from an array",
