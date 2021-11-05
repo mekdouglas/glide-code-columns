@@ -446,7 +446,7 @@
       {
         "name": "part",
         "type": "string",
-        "displayName": "Part (all, hash, host, hostname, protocol, search, or parameter name)"
+        "displayName": "Part (all, hash, host, hostname, pathname, protocol, search, or parameter name)"
       }
     ]
   },
