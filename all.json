@@ -1568,12 +1568,22 @@
       {
         "name": "singular",
         "type": "string",
-        "displayName": "Singular"
+        "displayName": "One"
       },
       {
         "name": "plural",
         "type": "string",
-        "displayName": "Plural"
+        "displayName": "Many"
+      },
+      {
+        "name": "zero",
+        "type": "string",
+        "displayName": "Zero (default: same as Many)"
+      },
+      {
+        "name": "includeNumber",
+        "type": "boolean",
+        "displayName": "Include Number"
       }
     ]
   },
