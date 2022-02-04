@@ -331,7 +331,6 @@
   "hyperformula": {
     "name": "Hyperformula",
     "category": "Code",
-    "released": "sandboxed",
     "description": "Run Excel formulas",
     "author": "David Siegel <david@glideapps.com>",
     "result": {
