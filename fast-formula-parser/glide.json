@@ -1,6 +1,7 @@
 {
-  "name": "Fast Formula Parser",
+  "name": "Excel Formula",
   "category": "Code",
+  "released": "direct",
   "description": "Run Excel formulas",
   "author": "Chris Ozgo <chris.ozgo@heyglide.com>",
   "result": {
