@@ -1,12 +1,12 @@
 import * as glide from "../glide";
 
 import TimeAgo, { FormatStyleName } from "javascript-time-ago";
-import en from "javascript-time-ago/locale/en.json";
+import br from "javascript-time-ago/locale/br.json";
 
 const styles: FormatStyleName[] = ["round", "mini", "twitter"];
 
-TimeAgo.addDefaultLocale(en);
-const timeAgo = new TimeAgo("en-US");
+TimeAgo.addDefaultLocale(pt);
+const timeAgo = new TimeAgo("pt-BR");
 
 export default glide
     .columnNamed("Relative Time")
